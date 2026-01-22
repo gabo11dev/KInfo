@@ -7,4 +7,6 @@ To Do
 - Show Kindle Model
 - Show Kindle Name
 - Show Avaible space
+- Make a non-sentitive info scriplet
+- Make text smaller (help)
 - etc

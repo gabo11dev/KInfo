@@ -9,4 +9,5 @@ To Do
 - Show Avaible space
 - Make a non-sentitive info scriplet
 - Make text smaller (help)
+- Fix text not showing bug
 - etc

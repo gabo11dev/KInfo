@@ -6,6 +6,9 @@ Non-sensitive version only shows firmware version, number, and hotfix version.
 
 v0.2 changelog
 - Added eips command
+- Added non-sensitive info script
+- Fixed bug that doesn't allow to see text
+- Make text smaller
 
 To Do
 - Show Kindle Model
